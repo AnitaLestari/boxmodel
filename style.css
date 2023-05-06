@@ -1,0 +1,67 @@
+div {
+    height: 200px;
+    width: 200px;
+}
+
+p {
+    margin: 0;
+}
+
+#first {
+    background-color: lightblue;
+    padding: 20px;
+    border: 10px solid black;
+}
+
+#second {
+    background-color: yellowgreen;
+    border: solid black;
+    border-width: 20px 10px;
+    padding: ;
+    margin-left: 260px;
+}
+
+#third {
+    background-color: brown;
+    margin-left: 40px;
+    border: solid black;
+    border-width: 10px;
+}
+
+#fourth {
+    background-color: yellow;
+    border: solid black;
+    border-width: 10px 20px;
+    padding: 30px;
+    margin-left: 260px;
+}
+
+#five {
+    background-color: rgb(202, 92, 212);
+    border: solid black;
+    border-width: 10px;
+    padding: 20px;
+}
+
+#six {
+    background-color: palevioletred;
+    border: solid black;
+    border-width: 10px 20px 30px;
+    padding: 20px;
+    margin-left: 260px;
+}
+
+#seven {
+    background-color: blueviolet;
+    border: solid;
+    border-width: 10px;
+    padding: 10px;
+    margin-left: 20px;
+}
+
+#eight {
+    background-color: burlywood;
+    border: solid;
+    border-width: 10px;
+    margin-left: 260px;
+}
